@@ -2,6 +2,8 @@
  - Pak files for the game go into - %LocalAppData%\Mining\Saved\Paks
  - Hit Win + R and copy paste - %LocalAppData%\Mining\Saved then create the Paks folder in that directory.
 
+## **All mods hosted here will require the ModLoader.pak to be installed**
+
 ## Team Hydronix Mods (Most are in the process of being rebuilt)
 
 | Mod File  | Description | Creator |

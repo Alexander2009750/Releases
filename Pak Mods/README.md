@@ -28,12 +28,9 @@
 | [NoDurability](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/001-NoDurability_P.pak)  | Infinite durability machines  | Heilos |
 | [No Dirt Goliath](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/002-NoDirtGoliath_P.pak)  | Stops the Goliath drill using up dirt. Must have a higher index number than NoDurability if both are used | Heilos |
 
-# F7 Menu  
-As it stands right now, the mod requires a World Map item to exist somewhere in the world.  You don't have to keep it with you, but you have to own one.  Since you start out with one, this shouldn't be an issue.  
-  
-M for Map  
-Shift + Z to duplicate item under crosshairs  
-F7 for menu  
+# Hydronix Menu Keybinds 
+Ctrl + X to delete
+Ctrl + C
   
 Menu functions:
  - Delete Items (Checkboxes to delete groups of items from the world)

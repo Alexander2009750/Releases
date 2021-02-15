@@ -3,12 +3,12 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Components/ActorComponent.h"
+#include "Components/SceneComponent.h"
 #include "VoxelInvokerComponent.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class VOXEL_API UVoxelInvokerComponent : public UActorComponent
+class VOXEL_API UVoxelInvokerComponent : public USceneComponent
 {
 	GENERATED_BODY()
 

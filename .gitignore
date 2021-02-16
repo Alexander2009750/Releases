@@ -72,3 +72,4 @@ Template Project/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Template Project/DerivedDataCache/*
+Template Project/Content/TestActor.uasset
